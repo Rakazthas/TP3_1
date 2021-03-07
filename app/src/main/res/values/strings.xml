@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inscription</string>
+    <string name="id_text">Identifiant</string>
+    <string name="name_text">Nom</string>
+    <string name="surname_text">Prenom</string>
+    <string name="age_text">Age</string>
+    <string name="tel_text">Numero de telephone</string>
+    <string name="password">Mot de passe</string>
+    <string name="ok_button">Enregistrer</string>
+</resources>

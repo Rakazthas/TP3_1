@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Persistance</string>
+    <string name="name_text">Name</string>
+    <string name="surname_text">Surname</string>
+    <string name="age_text">Age</string>
+    <string name="tel_text">Phone number</string>
+    <string name="ok_button">Register</string>
+    <string name="password">Password</string>
+    <string name="id_text">Id</string>
+</resources>
